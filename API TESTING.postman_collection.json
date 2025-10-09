@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "67f8c24d-752f-4cb3-9e2a-ff614679ab73",
+		"name": "API TESTING",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49125370"
+	},
+	"item": [
+		{
+			"name": "Just Try",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
